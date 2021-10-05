@@ -23,4 +23,4 @@ Will Found all that i thought.
 <br/>
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggdream&hide=html&title_color=009688)
-![Stats](https://github-readme-stats.vercel.app/api?username=ggdream&show_icons=true&count_private=true&line_height=40&title_color=009688)
+![Stats](https://github-readme-stats.vercel.app/api?username=ggdream&layout=compact&show_icons=true&count_private=true&line_height=40&title_color=009688)
